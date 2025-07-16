@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.cvenv/
+cvenv/
+.env
+
+# YOLOv8 weights
+*.pt
+
+# Output files
+output/
+*.mp4
+*.avi
+*.jpg
+*.png
+
+# OS/Editor files
+.DS_Store
+Thumbs.db
